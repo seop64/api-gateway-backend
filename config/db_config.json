@@ -1,0 +1,9 @@
+{
+    
+    "host": "host.docker.internal", 
+    "port": "3307",
+    "user": "isk",
+    "password": "isk1004!",
+    "database": "test_db",
+    "connectionLimit": 30
+  }
