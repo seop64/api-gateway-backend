@@ -12,5 +12,5 @@ router.get('/', function(req, res, next) {
 router.post('/', function(req, res, next) {
   res.sendFile(path.join(__dirname, '../public', 'index.html')); // 수정된 부분
 });
-
+// 
 module.exports = router;
