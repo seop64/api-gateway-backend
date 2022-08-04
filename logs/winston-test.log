@@ -10,3 +10,15 @@
 2022-08-01T15:27:24.284Z [winston-test] info: isk
 2022-08-01T15:27:24.285Z [winston-test] info: isk1004!
 2022-08-01T15:27:24.286Z [winston-test] info: test_db
+2022-08-02T13:07:21.766Z [winston-test] info: undefined
+2022-08-02T13:07:21.771Z [winston-test] info: undefined
+2022-08-02T13:07:21.772Z [winston-test] info: undefined
+2022-08-02T13:07:21.773Z [winston-test] info: undefined
+2022-08-02T13:07:36.220Z [winston-test] info: mysql error
+2022-08-02T13:07:36.222Z [winston-test] info: Error: connect ECONNREFUSED 127.0.0.1:3306
+2022-08-04T16:23:23.639Z [winston-test] info: undefined
+2022-08-04T16:23:23.646Z [winston-test] info: undefined
+2022-08-04T16:23:23.648Z [winston-test] info: undefined
+2022-08-04T16:23:23.649Z [winston-test] info: undefined
+2022-08-04T16:23:27.625Z [winston-test] info: mysql error
+2022-08-04T16:23:27.626Z [winston-test] info: Error: connect ECONNREFUSED 127.0.0.1:3306
