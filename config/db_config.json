@@ -5,5 +5,5 @@
     "user": "isk",
     "password": "isk1004!",
     "database": "test_db",
-    "connectionLimit": 20
+    "connectionLimit": 10
   }
