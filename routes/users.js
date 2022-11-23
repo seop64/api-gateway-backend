@@ -17,6 +17,7 @@ router.get('/', function(req, res, next) {
   //var is = process.env.MYSQL_USER;
   
   var errorMsg;
+  var test;
 
   try{
     getConnection((conn) => {
